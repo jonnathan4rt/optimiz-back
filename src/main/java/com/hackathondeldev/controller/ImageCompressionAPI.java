@@ -26,7 +26,7 @@ public class ImageCompressionAPI {
 
             HttpHeaders headers = new HttpHeaders();
             headers.setContentType(MediaType.IMAGE_JPEG);
-            headers.setContentDispositionFormData("attachment", "comprimida_img.jpg");
+            headers.setContentDispositionFormData("attachment", "comprimido_img.jpg");
 
             return ResponseEntity.ok()
                     .headers(headers)
