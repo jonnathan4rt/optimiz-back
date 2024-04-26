@@ -1,7 +1,20 @@
 # Back end de la web IMG Optimiz - la hackathon del dev
 Repositorio Front end: [optimiz-front](https://github.com/jonnathan4rt/optimiz-front)
 
+## Requisitos previos
 
+- Java 17
+- Spring Boot 3
+
+## Instalación
+
+1. Clonar el Repositorio
+2. Importar el Proyecto en tu IDE
+
+## Ejecución
+
+- Desde tu IDE: Ejecutar como aplicación Spring Boot
+- Desde la línea de comandos: `mvn spring-boot:ru
 
 [![init.png](https://i.postimg.cc/NfnCJNvP/init.png)](https://postimg.cc/JGbQt5nb)
 
