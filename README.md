@@ -14,7 +14,7 @@ Repositorio Front end: [optimiz-front](https://github.com/jonnathan4rt/optimiz-f
 ## Ejecución
 
 - Desde tu IDE: Ejecutar como aplicación Spring Boot
-- Desde la línea de comandos: `mvn spring-boot:ru
+- Desde la línea de comandos: `mvn spring-boot:run`
 
 [![init.png](https://i.postimg.cc/NfnCJNvP/init.png)](https://postimg.cc/JGbQt5nb)
 
